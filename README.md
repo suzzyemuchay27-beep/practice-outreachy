@@ -4,6 +4,7 @@ practicing open source for outreachy
 I am transitioning into cybersecurity and practicing how to contribute to documentation 
 
 My goals:
+
     -Learn Github flow
     
     -Make my first real world contribution to cybersecurity project
